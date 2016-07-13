@@ -6,10 +6,7 @@ package com.cr.cap
 class MsgType {
 
     companion object {
-
-
-        var types: Map<Int, String>? = mapOf(
-
+        var types: Map<Int, String> = mapOf(
                 10100 to "ClientHello",
                 10101 to "Login",
                 10107 to "ClientCapabilities",
