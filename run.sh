@@ -1,1 +1,1 @@
-java -cp lib/*:jpcap/thirdParty/jars/*:out/production/crPacketCap/ com.cr.cap.Test
+sudo java -cp lib/*:jpcap/thirdParty/jars/*:out/production/crPacketCap/ com.cr.cap.Test
